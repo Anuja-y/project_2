@@ -7,7 +7,7 @@ ETL Mini Project
 
 **TEAM MEMBERS:**
 
-Kirsty, Steven, Anuja
+Kirsty, Stephen, Anuja
 
 
 **FUNCTIONS:**
