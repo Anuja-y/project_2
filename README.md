@@ -1,16 +1,16 @@
 # project_2
 
-** PROJECT TITLE: ** 
+**PROJECT TITLE:** 
 
 ETL Mini Project
 
 
-** TEAM MEMBERS: **
+**TEAM MEMBERS:**
 
 Kirsty, Steven, Anuja
 
 
-** FUNCTIONS: **
+**FUNCTIONS:**
 
 * Created the Category and Subcategory DataFrames:
 	Extracted and transformed the crowdfunding.xlsx Excel data to create a category and subcategory DataFrames. Exported the data to csv files as category.csv and subcategory.csv
@@ -22,10 +22,10 @@ Kirsty, Steven, Anuja
 	Prepared ERD using QuickDBD and exported results to E-T-L_ERD.png. , tableschemata and Query_sql.sql
 
 
-** RESOURCES: **
+**RESOURCES:**
 
-https://www.geeksforgeeks.org
-https://pandas.pydata.org
-https://www.askpython.com/python-modules/pandas/convert-int64-to-datetime#:~:text=To%20convert%20int64%20to%20Datetime%20in%20Pandas%2C%20use,format%20parameter%20to%20suit%20your%20specific%20date%20representation.
-https://sparkbyexamples.com/pandas/how-to-format-pandas-datetime/
-https://realpython.com
+1. https://www.geeksforgeeks.org
+2. https://pandas.pydata.org
+3. https://www.askpython.com/python-modules/pandas/convert-int64-to-datetime#:~:text=To%20convert%20int64%20to%20Datetime%20in%20Pandas%2C%20use,format%20parameter%20to%20suit%20your%20specific%20date%20representation.
+4. https://sparkbyexamples.com/pandas/how-to-format-pandas-datetime/
+5. https://realpython.com
